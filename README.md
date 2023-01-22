@@ -31,7 +31,7 @@ def circulate():
 ```
 
 ## output:
-![output](/image3.png)
+![output](/ima.png)
 
 ## Result:
 Thus the circulation of n variables are successfully executed
